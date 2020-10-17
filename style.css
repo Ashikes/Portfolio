@@ -287,6 +287,26 @@ header .navbar ul li a.active::before{
     left:30%;
 }
 
+.cbtn1{
+    background-color: sandybrown;
+    border-radius: 30px;
+    margin: 20px 40px 0px 40px;
+} 
+.cbtn2{
+    background-color: sandybrown;
+    border-radius: 30px;
+    margin: 90px 40px 0px 40px;
+} 
+.cbtn3{
+    background-color: sandybrown;
+    border-radius: 30px;
+    margin: 135px 40px 0px 40px;
+} 
+.cbtn4{
+    background-color: sandybrown;
+    border-radius: 30px;
+    margin: 160px 40px 0px 40px;
+} 
 .services .container .box{
     position: relative;
     width: 350px;
